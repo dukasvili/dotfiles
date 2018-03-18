@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="style" mtime="1520845603" type="string">
+		<stringvalue>Monospace 12</stringvalue>
+	</entry>
+	<entry name="palette_name" mtime="1521043356" type="string">
+		<stringvalue>Liquid Carbon</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1521043356" type="string">
+		<stringvalue>#000000000000:#FFFF2F2F2F2F:#54549A9A6F6F:#CCCCACAC0000:#00009999CCCC:#CCCC6868C8C8:#7979C4C4CCCC:#BCBCCCCCCCCC:#000000000000:#FFFF2F2F2F2F:#54549A9A6F6F:#CCCCACAC0000:#00009999CCCC:#CCCC6868C8C8:#7979C4C4CCCC:#BCBCCCCCCCCC:#AFAFC2C2C2C2:#2F2F2F2F2F2F</stringvalue>
+	</entry>
+	<entry name="allow_bold" mtime="1521043341" type="bool" value="true"/>
+</gconf>
